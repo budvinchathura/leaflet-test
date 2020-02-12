@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leaflet-test/static/css/main.d1b05096.chunk.css",
+    "main.js": "/leaflet-test/static/js/main.b4f59e59.chunk.js",
+    "main.js.map": "/leaflet-test/static/js/main.b4f59e59.chunk.js.map",
+    "runtime-main.js": "/leaflet-test/static/js/runtime-main.cc86fe1e.js",
+    "runtime-main.js.map": "/leaflet-test/static/js/runtime-main.cc86fe1e.js.map",
+    "static/js/2.0cb2224c.chunk.js": "/leaflet-test/static/js/2.0cb2224c.chunk.js",
+    "static/js/2.0cb2224c.chunk.js.map": "/leaflet-test/static/js/2.0cb2224c.chunk.js.map",
+    "index.html": "/leaflet-test/index.html",
+    "precache-manifest.1c3587c82ef2e8ac0b44256f4a2c6f02.js": "/leaflet-test/precache-manifest.1c3587c82ef2e8ac0b44256f4a2c6f02.js",
+    "service-worker.js": "/leaflet-test/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/leaflet-test/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0cb2224c.chunk.js.LICENSE.txt": "/leaflet-test/static/js/2.0cb2224c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/leaflet-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc86fe1e.js",
+    "static/js/2.0cb2224c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b4f59e59.chunk.js"
+  ]
+}
