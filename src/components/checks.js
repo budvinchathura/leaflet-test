@@ -44,6 +44,7 @@ export function Checkboxes() {
 
     return (
         <div>
+            other locations
             <Checkbox
                 checked={checkeda}
                 onChange={handleChangea}
