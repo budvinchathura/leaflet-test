@@ -43,7 +43,7 @@ function App() {
 
         <Button variant="outlined" onClick={() => { dispatch(set_center(loc1)) }}>1st location</Button>
         <Button variant="outlined" onClick={() => { dispatch(set_center(loc2)) }}>2nd location</Button>
-        <Button variant="outlined" onClick={current_loc}>current location</Button>
+        <Button variant="outlined" onClick={current_loc}>current location...</Button>
         <Checkboxes />
       </div>
     </div>
